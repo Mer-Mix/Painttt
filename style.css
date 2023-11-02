@@ -1,0 +1,21 @@
+h1{
+    color: black;
+    background-color: yellowgreen;
+    font-size: 90px;
+    text-align: center;
+    font-weight: 200;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    width: auto;
+height: 100%;
+text-shadow: 3px 1px yellow;
+}
+img{
+    width: 70%;
+    height: 700px;
+    margin-left: 15%;
+    border: 15px solid yellowgreen;
+    box-shadow: 20px 10px radius color yellow;
+}
+
+
